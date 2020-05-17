@@ -1,0 +1,9 @@
+@apiUrl = http://localhost:5000
+
+POST {{apiUrl}}/activities
+content-type: application/json
+
+{
+	"Id": "88dc610d-01e3-41af-b9b5-1a5d49fba14f",
+	"Name": "trinh anh dung"
+}

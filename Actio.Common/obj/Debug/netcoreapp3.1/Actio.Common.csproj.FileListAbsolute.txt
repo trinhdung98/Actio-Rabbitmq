@@ -1,0 +1,9 @@
+C:\Users\dung\Desktop\Actio-Rabbitmq\Actio.Common\obj\Debug\netcoreapp3.1\Actio.Common.csprojAssemblyReference.cache
+C:\Users\dung\Desktop\Actio-Rabbitmq\Actio.Common\obj\Debug\netcoreapp3.1\Actio.Common.csproj.CoreCompileInputs.cache
+C:\Users\dung\Desktop\Actio-Rabbitmq\Actio.Common\obj\Debug\netcoreapp3.1\Actio.Common.AssemblyInfoInputs.cache
+C:\Users\dung\Desktop\Actio-Rabbitmq\Actio.Common\obj\Debug\netcoreapp3.1\Actio.Common.AssemblyInfo.cs
+C:\Users\dung\Desktop\Actio-Rabbitmq\Actio.Common\bin\Debug\netcoreapp3.1\Actio.Common.deps.json
+C:\Users\dung\Desktop\Actio-Rabbitmq\Actio.Common\bin\Debug\netcoreapp3.1\Actio.Common.dll
+C:\Users\dung\Desktop\Actio-Rabbitmq\Actio.Common\bin\Debug\netcoreapp3.1\Actio.Common.pdb
+C:\Users\dung\Desktop\Actio-Rabbitmq\Actio.Common\obj\Debug\netcoreapp3.1\Actio.Common.dll
+C:\Users\dung\Desktop\Actio-Rabbitmq\Actio.Common\obj\Debug\netcoreapp3.1\Actio.Common.pdb
