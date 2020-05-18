@@ -6,6 +6,8 @@ namespace Actio.Common.RabbitMQ
     {
         public string ConnectionName { get; set; }
         public IEnumerable<string> HostNames { get; set; }
+        public string UserName { get; set; }
+        public string Password { get; set; }
         public int Port { get; set; }
         public ExchangeOptions Exchange { get; set; }
         public QueueOptions Queue { get; set; }

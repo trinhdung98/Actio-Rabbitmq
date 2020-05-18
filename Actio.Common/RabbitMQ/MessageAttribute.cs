@@ -9,7 +9,8 @@ namespace Actio.Common.RabbitMQ
         public string RoutingKey { get; }
         public string Queue { get; }
 
-        public MessageAttribute(string exchange, string routingKey, string queue)
+        public MessageAttribute(string exchange = null, 
+            string routingKey = null, string queue = null)
         {
             Exchange = exchange;
             RoutingKey = routingKey;

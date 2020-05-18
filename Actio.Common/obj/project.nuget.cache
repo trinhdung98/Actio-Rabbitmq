@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "F9ObiJo0NJvlw+nO76srdMGl8He+gHDO0h/yd970oiBw6snvVkXzQ19cwYfcr2Nb/bjods06nOlkgpVBtn0mXQ==",
+  "dgSpecHash": "Dlt9GWYJmY6nioeArg/6Tit7XYTU0eHXvYBT3GucHtHhdijvmnmVUUrti8QGGpoWbT94QgkwXhkI5aXScsdajg==",
   "success": true,
   "projectFilePath": "C:\\Users\\dung\\Desktop\\Actio-Rabbitmq\\Actio.Common\\Actio.Common.csproj",
   "expectedPackageFiles": [
@@ -61,6 +61,7 @@
     "C:\\Users\\dung\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\dung\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\dung\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\dung\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\dung\\.nuget\\packages\\pipelines.sockets.unofficial\\2.0.17\\pipelines.sockets.unofficial.2.0.17.nupkg.sha512",
     "C:\\Users\\dung\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
     "C:\\Users\\dung\\.nuget\\packages\\stackexchange.redis\\2.0.593\\stackexchange.redis.2.0.593.nupkg.sha512",
